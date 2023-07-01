@@ -1,0 +1,26 @@
+# Archivo de proyecto de C#
+*.csproj
+
+# Carpetas de construcción de proyecto de C#
+ColectDictionary/bin/
+ColectDictionary/obj/
+
+# Archivos de construcción de proyecto de C#
+ColectDictionary/bin/Debug/**
+ColectDictionary/obj/Debug/**
+ColectDictionary/obj/Debug/**/*
+ColectDictionary/obj/Debug/**/*.*
+
+# Archivos de metadata de Unity
+*.meta
+
+# Ignorar archivos de tipo DLL
+*.dll
+
+# Ignorar archivos de tipo EXE
+*.exe
+
+# Ignorar archivos de tipo PDB
+*.pdb
+
+.cache/
