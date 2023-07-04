@@ -15,12 +15,21 @@ Audiencia opcional: Desarrolladores interesados en conocer más detalles técnic
 Es importante tener en cuenta que este manual se centra en el uso del juego Labcél y no abarca aspectos relacionados con el desarrollo o la personalización del juego. Cualquier información fuera del alcance de este manual puede ser consultada a través de los recursos proporcionados en la sección de preguntas frecuentes.
 
 ## Guía de Uso 📚💡
-1. Instalación: [Proporcionar instrucciones claras sobre cómo instalar el juego en la plataforma correspondiente, ya sea PC, consola o dispositivo móvil.]
-2. Inicio del juego: [Explicar cómo iniciar el juego y acceder a la interfaz principal.]
-3. Controles: [Detallar los controles básicos del juego, incluyendo cómo mover la célula y realizar acciones específicas.]
-4. Comer nutrientes: [Describir la mecánica de consumo de nutrientes y cómo esto fortalece la célula del jugador.]
-5. Evitar virus: [Explicar cómo identificar y evitar los virus que pueden dañar la célula del jugador.]
-6. Estrategias: [Proporcionar consejos y estrategias para maximizar el rendimiento en el juego, como la planificación de rutas y la optimización de la alimentación de nutrientes.]
+Aquí tienes un video de presentación que muestra la jugabilidad y las características de Labcél:
+
+2. Inicio del juego
+3. Controles
+4. Comer nutrientes
+5. Evitar virus
+<a href="https://youtu.be/y7gWpsnKtrA">
+  <img src="https://img.youtube.com/vi/y7gWpsnKtrA/maxresdefault.jpg" alt="Video de Presentación" width="480" height="">
+</a>
+
+# Instalación
+poseer el apk y proceder a instalar
+
+# Estrategias
+
 
 ## Solución de Problemas ❗🔧
 En caso de encontrar algún problema o error durante la ejecución de Labcél, aquí se presentan algunos problemas comunes y sus posibles soluciones:
