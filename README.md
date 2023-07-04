@@ -54,7 +54,10 @@ Puedes visitar nuestro sitio web oficial en [labcel.x10.mx](http://labcel.x10.mx
 Valoramos tus comentarios. Puedes enviarnos tus sugerencias y comentarios a [WhatsApp ](https://api.whatsapp.com/send?phone=50578043679). Estamos ansiosos por escucharte y mejorar tu experiencia de juego.
 
 **3. ¿Cuáles son los requisitos mínimos del sistema para jugar Labcél?**
-Los requisitos mínimos del sistema pueden variar según la plataforma. Por favor, consulta nuestra página web oficial o la documentación del sistema para conocer los requisitos específicos.
+Los requisitos mínimos del sistema son:
+Android 11
+resolución: 1440 x 3120 pixels, 19.5:9 ratio
+Ram: 4 Gb
 
 ##
 ¡Disfruta de Labcél y sumérgete en el emocionante mundo celular! Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos. ¡Que te diviertas! 🎉😄
