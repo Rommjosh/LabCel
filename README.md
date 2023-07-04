@@ -1,5 +1,5 @@
 # Labcél 🧬🎮
-![](Portada.Png)
+![](Portada.png)
 ## Introducción
 ¡Bienvenido a Labcél! Este es un emocionante videojuego centrado en el mundo microscópico de las células, donde tu objetivo es comer nutrientes 🍏🍞 y evitar virus 🦠 que afectan a las células. Prepárate para sumergirte en una aventura llena de desafíos y estrategia celular.
 
