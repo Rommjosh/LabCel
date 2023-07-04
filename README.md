@@ -31,7 +31,7 @@ Aquí tienes un video de presentación que muestra la jugabilidad y las caracter
 poseer el apk y proceder a instalar
 
 # Estrategias
-
+Planifica tu movimiento estratégicamente para evitar áreas peligrosas.
 
 ## Solución de Problemas ❗🔧
 En caso de encontrar algún problema o error durante la ejecución de Labcél, aquí se presentan algunos problemas comunes y sus posibles soluciones:
@@ -56,4 +56,5 @@ Valoramos tus comentarios. Puedes enviarnos tus sugerencias y comentarios a [Wha
 **3. ¿Cuáles son los requisitos mínimos del sistema para jugar Labcél?**
 Los requisitos mínimos del sistema pueden variar según la plataforma. Por favor, consulta nuestra página web oficial o la documentación del sistema para conocer los requisitos específicos.
 
+##
 ¡Disfruta de Labcél y sumérgete en el emocionante mundo celular! Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarnos. ¡Que te diviertas! 🎉😄
