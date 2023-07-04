@@ -23,9 +23,8 @@ Aquí tienes un video de presentación que muestra la jugabilidad y las caracter
 4. Evitar virus
 
    👇 Clic aca 👇
-<a href="https://youtu.be/y7gWpsnKtrA">
-  <img src="https://img.youtube.com/vi/y7gWpsnKtrA/maxresdefault.jpg" alt="Video de Presentación" width="480" height="">
-</a>
+   
+[![Video de Presentación](https://img.youtube.com/vi/y7gWpsnKtrA/maxresdefault.jpg)](https://youtu.be/y7gWpsnKtrA)
 
 # Instalación
 poseer el apk y proceder a instalar
