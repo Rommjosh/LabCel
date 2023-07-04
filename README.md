@@ -17,10 +17,12 @@ Es importante tener en cuenta que este manual se centra en el uso del juego Labc
 ## Guía de Uso 📚💡
 Aquí tienes un video de presentación que muestra la jugabilidad y las características de Labcél:
 
-2. Inicio del juego
-3. Controles
-4. Comer nutrientes
-5. Evitar virus
+1. Inicio del juego
+2. Controles
+3. Comer nutrientes
+4. Evitar virus
+
+   👇 Clic aca 👇
 <a href="https://youtu.be/y7gWpsnKtrA">
   <img src="https://img.youtube.com/vi/y7gWpsnKtrA/maxresdefault.jpg" alt="Video de Presentación" width="480" height="">
 </a>
