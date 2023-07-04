@@ -54,8 +54,11 @@ Valoramos tus comentarios. Puedes enviarnos tus sugerencias y comentarios a [Wha
 
 **3. ¿Cuáles son los requisitos mínimos del sistema para jugar Labcél?**
 Los requisitos mínimos del sistema son:
+
 Android 11
-resolución: 1440 x 3120 pixels, 19.5:9 ratio
+
+Resolución: 1440 x 3120 pixels, 19.5:9 ratio
+
 Ram: 4 Gb
 
 ##
