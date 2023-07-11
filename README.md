@@ -45,6 +45,7 @@ En caso de encontrar algún problema o error durante la ejecución de Labcél, a
 ## Documentación 📄
 El siguiente sitio web aloja la documentación de clases de nuestros Scripts, [labcel.x10.mx](http://labcel.x10.mx)
 
+El siguiente link aloja carpeta xml generada con Doxygen [Carpeta xml](https://drive.google.com/drive/folders/130S1AEJ_fgEp1igeMe9650Fb522M1gOu?usp=sharing)
 ## Preguntas Frecuentes ❓🔍
 Aquí se encuentran algunas preguntas frecuentes y sus respuestas para brindarte más ayuda e información adicional sobre Labcél:
 
